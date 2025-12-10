@@ -1,6 +1,10 @@
 import { Box, Typography } from "@mui/material";
 import { useTranslation } from "react-i18next";
 
+import vineyard from "../assets/images/about/vineyard.png";
+import cellar from "../assets/images/about/cellar.png";
+import grapes from "../assets/images/about/grapes.png";
+
 export default function About() {
   const { t } = useTranslation();
 
@@ -26,7 +30,7 @@ export default function About() {
 
       <Box
         component="img"
-        src="src/assets/images/about/vineyard.png"
+        src={vineyard}
         alt={t("about.title")}
         sx={{
           width: "100%",
@@ -53,7 +57,7 @@ export default function About() {
 
       <Box
         component="img"
-        src="src/assets/images/about/cellar.png"
+        src={cellar}
         alt={t("about.title")}
         sx={{
           width: "100%",
@@ -73,7 +77,7 @@ export default function About() {
 
       <Box
         component="img"
-        src="src/assets/images/about/grapes.png"
+        src={grapes}
         alt={t("about.title")}
         sx={{
           width: "100%",

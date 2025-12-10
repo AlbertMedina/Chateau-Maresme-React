@@ -6,6 +6,9 @@ import ImageButton from "../components/shared/ImageButton";
 import ProductCard from "../components/shared/ProductCard";
 import packs from "../data/packs";
 
+import vineyard from "../assets/images/home/vineyard.png";
+import cellar from "../assets/images/home/cellar.png";
+
 export default function Home() {
   const { t } = useTranslation();
   const navigate = useNavigate();
@@ -16,12 +19,12 @@ export default function Home() {
 
       <Grid container spacing={4} justifyContent="center" sx={{ mb: 10 }}>
         <ImageButton
-          image="src/assets/images/home/vineyard.png"
+          image={vineyard}
           text={t("home.about")}
           onClick={() => navigate("/about")}
         />
         <ImageButton
-          image="src/assets/images/home/cellar.png"
+          image={cellar}
           text={t("home.products")}
           onClick={() => navigate("/products")}
         />
