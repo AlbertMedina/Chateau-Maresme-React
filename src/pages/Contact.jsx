@@ -1,7 +1,7 @@
 import { Box, Typography, TextField, Button, Grid } from "@mui/material";
 import { useState } from "react";
 import { useTranslation } from "react-i18next";
-import WeatherCard from "../components/shared/WeatherCard";
+import WeatherCard from "../components/contact/WeatherCard";
 import contactData from "../data/contact-data";
 
 export default function Contact() {
