@@ -20,18 +20,17 @@ export default function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
 
+    const subject = encodeURIComponent("Formulari de contacte");
+    const body = `Nom: ${formData.name}
+      Email: ${formData.email}
+      Telèfon: ${formData.phone}
+      Missatge: ${formData.message}`;
+
     const mailto = `mailto:${
       contactData.email
-    }?subject=Formulari de contacte&body=Nom: ${encodeURIComponent(
-      formData.name
-    )}%0AEmail: ${encodeURIComponent(
-      formData.email
-    )}%0ATelèfon: ${encodeURIComponent(
-      formData.phone
-    )}%0AMissatge: ${encodeURIComponent(formData.message)}`;
+    }?subject=${subject}&body=${encodeURIComponent(body)}`;
 
-    window.location.href = mailto;
-
+    window.location.href = mailto; // o window.open(mailto) si cal
     setFormData({ name: "", email: "", phone: "", message: "" });
   };
 
