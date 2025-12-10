@@ -1,13 +1,10 @@
 import { Box, Grid, Typography } from "@mui/material";
-
 import { useTranslation } from "react-i18next";
 import { useNavigate } from "react-router-dom";
-
-import packs from "../data/packs";
-
 import HeroSection from "../components/home/HeroSection";
 import ImageButton from "../components/shared/ImageButton";
 import ProductCard from "../components/shared/ProductCard";
+import packs from "../data/packs";
 
 export default function Home() {
   const { t } = useTranslation();

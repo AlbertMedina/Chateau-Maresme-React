@@ -1,5 +1,5 @@
 import { NavLink } from "react-router-dom";
-import { useTranslation } from "react-i18next";
+import { DarkMode, LightMode } from "@mui/icons-material";
 import {
   AppBar,
   Toolbar,
@@ -9,7 +9,7 @@ import {
   MenuItem,
   Box,
 } from "@mui/material";
-import { DarkMode, LightMode } from "@mui/icons-material";
+import { useTranslation } from "react-i18next";
 import { useContext } from "react";
 import ThemeContext from "../../services/theme.context";
 

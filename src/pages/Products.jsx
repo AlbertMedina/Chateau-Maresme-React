@@ -1,11 +1,8 @@
 import { Box, Grid, Typography } from "@mui/material";
-
 import { useTranslation } from "react-i18next";
-
+import ProductCard from "../components/shared/ProductCard";
 import wines from "../data/wines";
 import packs from "../data/packs";
-
-import ProductCard from "../components/shared/ProductCard";
 
 export default function Products() {
   const { t } = useTranslation();
