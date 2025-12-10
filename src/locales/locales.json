@@ -1,0 +1,167 @@
+{
+    "ca": {
+        "translation": {
+            "nav": {
+                "home": "Inici",
+                "about": "Sobre nosaltres",
+                "products": "Productes",
+                "contact": "Contacte"
+            },
+           "home": {
+                "title": "Benvinguts a Château Maresme", 
+                "subtitle": "Vins d'alta qualitat elaborats amb passió i tradició des de 1897",
+                "about": "Descobreix la nostra història",
+                "products": "Explora els nostres vins",
+                "featured": "Aquest Nadal, sorprèn amb el sabor de Château Maresme"
+            },
+            "about": {
+                "title": "Château Maresme — La nostra història",
+                "paragraph-1":"Fundat l’any 1897, Château Maresme neix al cor de la comarca del Maresme, en un indret privilegiat entre el blau del Mediterrani i les suaus ondulacions de les vinyes. Des dels seus inicis, el celler ha estat una empresa familiar dedicada a capturar l’essència del territori i transformar-la en vins d’identitat única.",
+                "paragraph-2":"El seu fundador, Raimon Vinyes, un apassionat de la terra i de les tècniques vinícoles tradicionals, va començar amb unes poques hectàrees de vinya i un somni: elaborar vins capaços de transmetre l’aroma del mar, la força del sol i el caràcter de la nostra terra. Amb el pas dels anys, el celler va anar creixent, però sempre mantenint-se fidel a un principi fonamental: respectar el ritme de la natura i la qualitat del producte.",
+                "paragraph-3":"Durant les dècades del segle XX, la família Maresme va modernitzar el celler, incorporant noves tecnologies d’elaboració i millorant les seves varietats de raïm, sense renunciar mai al seu patrimoni artesanal. Avui, la quarta generació continua aquest llegat amb passió, combinant tradició i innovació per crear vins elegants, equilibrats i reconeguts arreu.",
+                "paragraph-4":"A Château Maresme creiem que cada ampolla explica una història: la història de la nostra família, del nostre entorn i del saber fer que hem anat polint durant més d’un segle. El nostre compromís és oferir vins que emocionin, que celebrin la vida i que reflecteixin l’ànima d’un territori únic."
+            },
+            "products": {
+                "title": "Els nostres productes",
+                "type": {
+                    "red": "Vi negre",
+                    "rose": "Vi rosat",
+                    "white": "Vi blanc",
+                    "varied": "Variat"
+                },
+                "cendra": { "description": "Vi negre intens amb notes fumades i especiades." },
+                "fosc": { "description": "Elegant i profund, amb aromes de bosc i fruits negres madurs." },
+                "brasa": { "description": "Vi negre especiat amb tocs torrats i un caràcter potent." },
+                "llambrusca": { "description": "Fruitat i viu, amb un toc lleugerament salvatge." },
+                "flor": { "description": "Rosat fresc i estiuenc, lleuger i aromàtic." },
+                "brisamar": { "description": "Blanc suau i refrescant amb un toc marí." },
+                "aromes": { "description": "Tres vins negres intensos per descobrir el costat més profund del celler." },
+                "essencia": { "description": "Negre, rosat i blanc per descobrir l’autèntica essència del celler." },
+                "premium": { "description": "Tres Cendra Roja en caixa de fusta: una elecció elegant." }
+            },
+            "contact": {
+                "title": "Contacta amb nosaltres",
+                "name": "Nom",
+                "email": "Correu electrònic",
+                "phone": "Telèfon",
+                "message": "Missatge",
+                "submit": "Enviar",
+                "write": "Escriu-nos",
+                "visit": "Visita'ns"
+            },
+            "footer": {
+                "rights": "Tots els drets reservats"
+            }
+        }
+    },
+    "es": {
+        "translation": {
+            "nav": {
+                "home": "Inicio",
+                "about": "Sobre nosotros",
+                "products": "Productos",
+                "contact": "Contacto"
+            },
+           "home": {
+                "title": "Bienvenidos a Château Maresme", 
+                "subtitle": "Vinos de alta calidad elaborados con pasión y tradición desde 1897",
+                "about": "Descubre nuestra historia",
+                "products": "Explora nuestros vinos",
+                "featured": "Esta Navidad, sorprende con el sabor de Château Maresme"
+            },
+            "about": {
+                "title": "Château Maresme — Nuestra història",
+                "paragraph-1":"Fundada en 1897, Château Maresme nace en el corazón de la comarca del Maresme, en un entorno privilegiado entre el azul del Mediterráneo y las suaves ondulaciones de los viñedos. Desde sus inicios, la bodega ha sido una empresa familiar dedicada a capturar la esencia del territorio y transformarla en vinos de identidad única.",
+                "paragraph-2":"Su fundador, Raimon Vinyes, un apasionado de la tierra y de las técnicas vinícolas tradicionales, comenzó con unas pocas hectáreas de viña y un sueño: elaborar vinos capaces de transmitir el aroma del mar, la fuerza del sol y el carácter de nuestra tierra. Con el paso de los años, la bodega fue creciendo, pero siempre se mantuvo fiel a un principio fundamental: respetar el ritmo de la naturaleza y la calidad del producto.",
+                "paragraph-3":"Durante las décadas del siglo XX, la familia Maresme modernizó la bodega, incorporando nuevas tecnologías de elaboración y mejorando sus variedades de uva, sin renunciar nunca a su herencia artesanal. Hoy, la cuarta generación continúa este legado con pasión, combinando tradición e innovación para crear vinos elegantes, equilibrados y reconocidos en todas partes.",
+                "paragraph-4":"En Château Maresme creemos que cada botella cuenta una historia: la historia de nuestra familia, de nuestro entorno y del saber hacer que hemos perfeccionado durante más de un siglo. Nuestro compromiso es ofrecer vinos que emocionen, que celebren la vida y que reflejen el alma de un territorio único."
+            },
+            "products": {
+                "title": "Nuestros productos",
+                "type": {
+                    "red": "Vino tinto",
+                    "rose": "Vino rosado",
+                    "white": "Vino blanco",
+                    "varied": "Variado"
+                },
+                "cendra": { "description": "Vino tinto intenso con notas ahumadas y especiadas." },
+                "fosc": { "description": "Elegante y profundo, con aromas de bosque y frutos negros maduros." },
+                "brasa": { "description": "Vino tinto especiado con notas tostadas y un carácter potente." },
+                "llambrusca": { "description": "Afrutado y vivo, con un toque ligeramente salvaje." },
+                "flor": { "description": "Rosado fresco y veraniego, ligero y aromático." },
+                "brisamar": { "description": "Blanco suave y refrescante con un toque marino." },
+                "aromes": { "description": "Tres vinos tintos intensos para descubrir el lado más profundo de la bodega." },
+                "essencia": { "description": "Tinto, rosado y blanco para descubrir la auténtica esencia de la bodega." },
+                "premium": { "description": "Tres Cendra Roja en caja de madera: una elección elegante." }
+            },
+            "contact": {
+                "title": "Contacta con nosotros",
+                "name": "Nombre",
+                "email": "Correo electrónico",
+                "phone": "Teléfono",
+                "message": "Mensaje",
+                "submit": "Enviar",
+                "write": "Escríbenos",
+                "visit": "Visítanos"
+            },
+            "footer": {
+                "rights": "Todos los derechos reservados"
+            }
+        }
+    },
+    "en": {
+        "translation": {
+            "nav": {
+                "home": "Home",
+                "about": "About",
+                "products": "Products",
+                "contact": "Contact"
+            },
+            "home": {
+                "title": "Welcome to Château Maresme", 
+                "subtitle": "High-quality wines crafted with passion and tradition since 1897",
+                "about": "Discover our story",
+                "products": "Savor our wines",
+                "featured": "This Christmas, delight with the taste of Château Maresme"
+            },
+            "about": {
+                "title": "Château Maresme — Our Story",
+                "paragraph-1":"Founded in 1897, Château Maresme was born in the heart of the Maresme region, a privileged landscape between the blue Mediterranean Sea and the gentle rolling vineyards. Since its beginnings, the winery has been a family-run project devoted to capturing the essence of the land and transforming it into wines with a unique identity.",
+                "paragraph-2":"Its founder, Raimon Vinyes, a true lover of the land and traditional winemaking techniques, started with just a few hectares of vineyard and a dream: to craft wines capable of conveying the aroma of the sea, the power of the sun, and the character of our region. Over the years, the winery grew but always remained faithful to a key principle: respecting nature’s rhythm and guaranteeing the highest quality.",
+                "paragraph-3":"Throughout the 20th century, the Maresme family modernized the winery, introducing new production technologies and improving their grape varieties, while never abandoning their artisanal heritage. Today, the fourth generation carries this legacy forward with passion, blending tradition and innovation to create elegant, balanced wines recognized worldwide.",
+                "paragraph-4":"At Château Maresme, we believe every bottle tells a story: the story of our family, our land, and the craftsmanship we have refined for more than a century. Our commitment is to offer wines that inspire, that celebrate life, and that reflect the soul of a truly unique region."
+            },
+            "products": {
+                "title": "Our products",
+                "type": {
+                    "red": "Red wine",
+                    "rose": "Rosé wine",
+                    "white": "White wine",
+                    "varied": "Varied"
+                },
+                "cendra": { "description": "Intense red wine with smoky and spicy notes." },
+                "fosc": { "description": "Elegant and deep, with forest aromas and ripe dark fruits." },
+                "brasa": { "description": "Spicy red wine with toasted notes and a bold character." },
+                "llambrusca": { "description": "Fruity and vibrant, with a slightly wild touch." },
+                "flor": { "description": "Fresh and summery rosé, light and aromatic." },
+                "brisamar": { "description": "Soft, refreshing white wine with a hint of sea breeze." },
+                "aromes": { "description": "Tres Cendra Roja en caixa de fusta: una elecció elegant." },
+                "essencia": { "description": "Red, rosé, and white to discover the winery’s true essence." },
+                "premium": { "description": "Three Cendra Roja in a wooden box: an elegant choice." }
+            },
+            "contact": {
+                "title": "Contact Us",
+                "name": "Name",
+                "email": "Email",
+                "phone": "Phone",
+                "message": "Message",
+                "submit": "Submit",
+                "write": "Write to us",
+                "visit": "Visit us"
+            },
+            "footer": {
+                "rights": "All rights reserved"
+            }
+        }
+    }
+}
